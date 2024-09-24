@@ -1,6 +1,6 @@
 ![github-header-image (2)](https://github.com/user-attachments/assets/dbfce456-3948-4800-96ef-205460e5d771)
 
-## Hi there dear developers👋[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Hi there dear developers👋 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 * 🌍  I’m based in Mexico, but I’m looking to work in the US as an intern.
 * 🖥️  See my professional profile [Linkedin](http://https://www.linkedin.com/in/davidagr/)
 * ✉️  You can contact me at [da.gr@lasallista.org.mx](mailto:da.gr@lasallista.org.mx)
