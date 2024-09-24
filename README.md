@@ -3,7 +3,7 @@
 ## Hi there dear developers👋
 * 🌍  I’m based in Mexico, but I’m looking to work in the US as an intern.
 * 🖥️  See my professional profile [Linkedin](http://https://www.linkedin.com/in/davidagr/)
-* ✉️  You can contact me at [da.gr@lasallista.org.mx](mailto:da.gr@lasallista.org.mx)
+* ✉️  You can contact me at [da.gr@lasallistas.org.mx](mailto:da.gr@lasallistas.org.mx)
 * 🚀  I'm currently working on software development as an intern
 * 🧠  I'm learning Frontend, Web and Mobile development
 * 💬 Ask me about entrepreneurship and technology facts
