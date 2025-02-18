@@ -20,6 +20,6 @@
 
 **My GitHub Stats**  
 
-<a href="https://github.com/Davidgr11">
-  <img src="https://streak-stats.demolab.com?user=Davidgr11&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidgr11&show_icons=true&locale=en" alt="davidgr11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidgr11&" alt="davidgr11" /></p>
