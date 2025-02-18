@@ -18,6 +18,8 @@
 
 ### Badges
 
-<b>My GitHub Stats</b>
+**My GitHub Stats**  
 
-<a href="http://www.github.com/Davidgr11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Davidgr11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Davidgr11">
+  <img src="https://streak-stats.demolab.com?user=Davidgr11&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
+</a>
