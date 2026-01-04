@@ -17,10 +17,10 @@
 ---
 ## 🚀 About Me
 
-- 🔭 Currently Learning **System Design, Cloud Architecture & LLM's**
+- 🔭 Currently Learning **System Design, Cloud Architecture & LLMs**
 - 🎓 **Cybernetics and Computational Systems Engineer** from Universidad La Salle (GPA 3.7/4.0)
-- 💡 Creator of initiatives like **Devri, Studially, Evolve and more**
-- 🎯 Seeking a SWE rol at a Big Tech Company
+- 💡 Creator of initiatives like **Devri, Studially, Evolve** and more
+- 🎯 Seeking a **SWE role at a Big Tech Company**
 - 💬 Ask me about **React, Next.js, JavaScript, and building MVPs fast**
 
 <br>
