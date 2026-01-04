@@ -46,8 +46,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="SASS" width="50" height="50"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-icon-svg-download-png-1175138.png" alt="MongoDB" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="VITE" width="50" height="50"/>
-  <img src="https://image.similarpng.com/file/similarpng/original-picture/2020/06/Logo-google-cloud-icon-vector-PNG.png" alt="Google Cloud" width="50" height="50"/>
-  <img src="https://images.seeklogo.com/logo-png/31/2/amazon-web-services-aws-logo-png_seeklogo-319188.png" alt="AWS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/512/google-cloud.png" alt="Google Cloud" width="50" height="50"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="AWS" width="50" height="50"/>
   <img src="https://usehalo.com/wp-content/uploads/2024/09/azure-devops.svg" alt="AZUREDEVOPS" width="50" height="50"/>
 </p>
 
