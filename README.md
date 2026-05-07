@@ -74,16 +74,14 @@
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Davidgr11&theme=tokyonight"
     alt="Repos per Language"
-    width="48%"
-  />
-
-  <img 
+    width="49%"
+  /><img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davidgr11&theme=tokyonight"
     alt="Most Commit Language"
-    width="48%"
+    width="49%"
   />
 </p>
 
